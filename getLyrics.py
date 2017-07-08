@@ -1,12 +1,5 @@
 
 import requests
-# import urllib.request
-# from bs4 import BeautifulSoup
-# from bottle import route, run, request
-# import spotipy
-# import sys
-# from spotipy import oauth2
-# import spotipy.util as util
 import getToken
 import lyriccomparison
 
@@ -31,15 +24,15 @@ topArtists = {
     #     "key": "0BvkDsjIUla7X0k6CSWh1I"
     # },
 
-    "Keith Urban": {
-        "key": "0u2FHSq3ln94y5Q57xazwf"
-    },
-    "Sam Hunt": {
-        "key": "2kucQ9jQwuD8jWdtR9Ef38"
-    },
-    "Jason Aldean": {
-        "key": "3FfvYsEGaIb52QPXhg4DcH"
-    },
+    # "Keith Urban": {
+    #     "key": "0u2FHSq3ln94y5Q57xazwf"
+    # },
+    # "Sam Hunt": {
+    #     "key": "2kucQ9jQwuD8jWdtR9Ef38"
+    # },
+    # "Jason Aldean": {
+    #     "key": "3FfvYsEGaIb52QPXhg4DcH"
+    # },
     "Cole Swindell": {
         "key": "1mfDfLsMxYcOOZkzBxvSVW"
     },

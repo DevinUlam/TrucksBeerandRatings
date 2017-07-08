@@ -1,8 +1,8 @@
 import re
-
+import requests
 import urllib.request
 from bs4 import BeautifulSoup
-
+import lyricwikia
 
 def getSongList(albumdict):
     i=0
